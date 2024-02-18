@@ -1,2 +1,5 @@
 # sdl2-playground
-fun things
+
+```
+./run <name>
+```
